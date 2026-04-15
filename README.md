@@ -9,4 +9,4 @@ I build clean, modular and automated cloud infrastructure. My portfolio is organ
 
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[CI/CD Hello World](github-actions-lab)** | GitHub Actions Basics | YAML, Bash, Ubuntu-Latest |
+| **[CI/CD Hello World]([github-actions-lab](https://github.com/jpxg3v/telegraf-config-validator))** | GitHub Actions Basics | YAML, Bash, Ubuntu-Latest |
