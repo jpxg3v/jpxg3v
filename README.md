@@ -9,5 +9,5 @@ I build clean, modular and automated cloud infrastructure. My portfolio is organ
 
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[CI/CD GitHub-Actions Fundamentals](https://github.com/jpxg3v/telegraf-config-validator)** | GitHub Actions Basics | YAML, Bash, Ubuntu-Latest |
+| **[CI/CD GitHub-Actions Fundamentals](https://github.com/jpxg3v/github-actions-fundamentals)** | GitHub Actions Basics | YAML, Bash, Ubuntu-Latest |
 | **[Telegraf Config Validator](https://github.com/jpxg3v/telegraf-config-validator)** | Telegraf Config Validator | YAML, Bash, Ubuntu-Latest, Docker |
